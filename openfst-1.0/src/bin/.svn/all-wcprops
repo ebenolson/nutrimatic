@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin
+END
+fstcompose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstcompose.cc
+END
+relabel-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/relabel-main.h
+END
+fstrandgen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstrandgen.cc
+END
+rmepsilon-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/rmepsilon-main.h
+END
+fstdeterminize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstdeterminize.cc
+END
+replace-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/replace-main.h
+END
+push-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/push-main.h
+END
+minimize-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/minimize-main.h
+END
+fstprint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstprint.cc
+END
+compile-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/compile-main.h
+END
+fstintersect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstintersect.cc
+END
+prune-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/prune-main.h
+END
+connect-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/connect-main.h
+END
+fstrelabel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstrelabel.cc
+END
+fstequal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstequal.cc
+END
+fstinvert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstinvert.cc
+END
+fstconcat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstconcat.cc
+END
+fstreplace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstreplace.cc
+END
+fstequivalent.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstequivalent.cc
+END
+project-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/project-main.h
+END
+concat-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/concat-main.h
+END
+invert-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/invert-main.h
+END
+epsnormalize-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/epsnormalize-main.h
+END
+topsort-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/topsort-main.h
+END
+synchronize-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/synchronize-main.h
+END
+closure-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/closure-main.h
+END
+equivalent-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/equivalent-main.h
+END
+reweight-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/reweight-main.h
+END
+convert-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/convert-main.h
+END
+fstcompile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstcompile.cc
+END
+fstunion.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstunion.cc
+END
+fstconnect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstconnect.cc
+END
+fstinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstinfo.cc
+END
+print-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/print-main.h
+END
+draw-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/draw-main.h
+END
+fstproject.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstproject.cc
+END
+intersect-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/intersect-main.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/Makefile.am
+END
+fsttopsort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fsttopsort.cc
+END
+fstsynchronize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstsynchronize.cc
+END
+fstclosure.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstclosure.cc
+END
+equal-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/equal-main.h
+END
+fstpush.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstpush.cc
+END
+fstconvert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstconvert.cc
+END
+fstminimize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstminimize.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/Makefile.in
+END
+reverse-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/reverse-main.h
+END
+arcsort-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/arcsort-main.h
+END
+map-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/map-main.h
+END
+fstshortestdistance.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstshortestdistance.cc
+END
+fstshortestpath.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstshortestpath.cc
+END
+fstencode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstencode.cc
+END
+union-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/union-main.h
+END
+encode-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/encode-main.h
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/main.cc
+END
+fstepsnormalize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstepsnormalize.cc
+END
+fstrmepsilon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstrmepsilon.cc
+END
+shortest-distance-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/shortest-distance-main.h
+END
+fstreverse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstreverse.cc
+END
+compose-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/compose-main.h
+END
+shortest-path-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/shortest-path-main.h
+END
+fstmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstmap.cc
+END
+fstarcsort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstarcsort.cc
+END
+fstreweight.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstreweight.cc
+END
+randgen-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/randgen-main.h
+END
+determinize-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/determinize-main.h
+END
+fstprune.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstprune.cc
+END
+fstdifference.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstdifference.cc
+END
+fstdraw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/fstdraw.cc
+END
+difference-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/difference-main.h
+END
+info-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/openfst-1.0/src/bin/info-main.h
+END
